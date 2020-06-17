@@ -7,7 +7,7 @@ public class GuessNumberHigherLower374 {
 	 	 Note: if the pattern forms like 0000000001111111111 and we have to find first '1' in the sequence 
 	 then use FirstBadVersion algorithm
 	 Note: if the pattern forms like 00000000012222222222 and we have to find  '1' in the sequence 
-	 then use GuessNumberHigherLower algorithm
+	 then use GuessNumberHigherLower algorithm.s
 	 
 	 
 	     public int guessNumber(int n) {

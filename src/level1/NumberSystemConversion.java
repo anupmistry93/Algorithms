@@ -16,7 +16,7 @@ public class NumberSystemConversion {
 			
 		}
 		
-		return binary; //convert to string and reverse depending on question.....
+		return binary; //convert to string and reverse depending on question....
 	}
 	
 	private static String decimalToBinary1(int n) {

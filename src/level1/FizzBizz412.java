@@ -1,5 +1,5 @@
 package level1;
-
+//
 public class FizzBizz412 {
 	
 	private String[] fizzBizz(int n) {
@@ -7,7 +7,7 @@ public class FizzBizz412 {
 		String[] output = new String[n];
 		int i =0;
 		
-		while( i <n) {
+		 while( i <n) {
 			
 			if((i+1)%3==0) {
 				
